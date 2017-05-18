@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-19 07:57+0200\n"
-"PO-Revision-Date: 2017-05-09 13:51+0000\n"
+"PO-Revision-Date: 2017-05-18 20:41+0000\n"
 "Last-Translator: Annalisa <ligiu@me.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/binary-"
 "webtrader/translations/it/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14-dev\n"
+"X-Generator: Weblate 2.14\n"
 
 msgid ""
 "\"http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-"
@@ -3306,7 +3306,7 @@ msgid "Statement"
 msgstr "Estratto"
 
 msgid "Statistical Functions"
-msgstr ""
+msgstr "Funzioni statistiche"
 
 msgid "Status"
 msgstr "Status"
@@ -3333,7 +3333,7 @@ msgid "Stick Sandwich (CDLSTICKSANDWICH)"
 msgstr ""
 
 msgid "Stochastic (STOCH )"
-msgstr ""
+msgstr "Stocastico (STOCH )"
 
 msgid "Stochastic Fast (STOCHF)"
 msgstr ""
@@ -3342,7 +3342,7 @@ msgid "Stochastic Relative Strength Index (STOCHRSI)"
 msgstr ""
 
 msgid "Stochastic Slow (STOCHS)"
-msgstr ""
+msgstr "Stochastic Slow (STOCHS)"
 
 msgid "Stock Indices"
 msgstr ""
@@ -3404,7 +3404,7 @@ msgid "Takuri (Dragonfly Doji with very long lower shadow) (CDLTAKURI)"
 msgstr ""
 
 msgid "Tasuki Gap (CDLTASUKIGAP)"
-msgstr ""
+msgstr "Tasuki Gap (CDLTASUKIGAP)"
 
 msgid "Tax identification number"
 msgstr ""
@@ -3865,6 +3865,8 @@ msgid ""
 "The profit is the difference between the purchase price (the stake) and the "
 "payout on a winning trade"
 msgstr ""
+"Il profitto è la differenza tra il prezzo di acquisto (la puntata) e il "
+"payout su un trade vincente"
 
 msgid ""
 "The rebranding is a natural evolution for the platform as it continues to "
@@ -3883,9 +3885,12 @@ msgstr ""
 msgid ""
 "The return is the money realized when the contract expires (see 'Payout')"
 msgstr ""
+"Il rendimento è la quantità di denaro realizzata alla scadenza di un "
+"contratto (vedi \"Payout\")"
 
 msgid "The stake is the amount that a trader must pay to enter into a trade"
 msgstr ""
+"La puntata è l'importo che un trader deve pagare per effettuare un trade"
 
 msgid "The sum of price over selected period"
 msgstr ""
@@ -3999,7 +4004,7 @@ msgid "Three Outside Up/Down (CDL3OUTSIDE)"
 msgstr ""
 
 msgid "Three Stars In The South (CDL3STARSSOUTH)"
-msgstr ""
+msgstr "Three Stars In The South (CDL3STARSSOUTH)"
 
 msgid ""
 "Three tall white candles, each with higher closes, and bodies that overlap "
@@ -4014,7 +4019,7 @@ msgid ""
 msgstr ""
 
 msgid "Three-Line Strike (CDL3LINESTRIKE)"
-msgstr ""
+msgstr "Three-Line Strike (CDL3LINESTRIKE)"
 
 msgid "Thrusting Pattern (CDLTHRUSTING)"
 msgstr ""
@@ -4130,10 +4135,10 @@ msgid "Trade Confirmation"
 msgstr "Conferma del trade"
 
 msgid "Trade all market conditions"
-msgstr ""
+msgstr "Fai trading con tutte le condizioni di mercato"
 
 msgid "Trade to your budget"
-msgstr ""
+msgstr "Fai trading in base al tuo budget"
 
 msgid "Trade to your strategy"
 msgstr ""
@@ -4199,10 +4204,10 @@ msgid "Triple Exponential Moving Average (TEMA)"
 msgstr "Triple Exponential Moving Average (TEMA)"
 
 msgid "Tristar Pattern (CDLTRISTAR)"
-msgstr ""
+msgstr "Modello Tristar (CDLTRISTAR)"
 
 msgid "True Range (TRANGE)"
-msgstr ""
+msgstr "True Range (TRANGE)"
 
 msgid "Try"
 msgstr "Prova"
@@ -4217,7 +4222,7 @@ msgid "Turnover"
 msgstr "Turnover"
 
 msgid "Two Crows (CDL2CROWS)"
-msgstr ""
+msgstr "Two Crows (CDL2CROWS)"
 
 msgid "Typical Price (TYPPRICE)"
 msgstr ""
@@ -4235,7 +4240,7 @@ msgid "Under"
 msgstr ""
 
 msgid "Underlying"
-msgstr ""
+msgstr "Sottostante"
 
 msgid ""
 "Unfortunately, no - funds initially deposited through one payment method "
@@ -4258,19 +4263,19 @@ msgid ""
 msgstr ""
 
 msgid "Up to 100% returns on rise/fall trades"
-msgstr ""
+msgstr "Fino al 100% di rendimenti su trade in rialzo/in ribasso"
 
 msgid "Up/Down"
 msgstr "Up/Down"
 
 msgid "Up/Down-Gap Side-By-Side White Lines (CDLGAPSIDESIDEWHITE)"
-msgstr ""
+msgstr "Up/Down-Gap Side-By-Side White Lines (CDLGAPSIDESIDEWHITE)"
 
 msgid "Upcoming Events"
 msgstr "Eventi in arrivo"
 
 msgid "Update"
-msgstr ""
+msgstr "Aggiorna"
 
 msgid "Update Settings"
 msgstr "Aggiorna impostazioni"
@@ -4282,7 +4287,7 @@ msgid "Upload template"
 msgstr "Carica modello"
 
 msgid "Upside/Downside Gap Three Methods (CDLXSIDEGAP3METHODS)"
-msgstr ""
+msgstr "Upside/Downside Gap Three Methods (CDLXSIDEGAP3METHODS)"
 
 msgid "Upside/Downside Gap Two Crows (CDLUPSIDEGAP2CROWS)"
 msgstr "Upside/Downside Gap Two Crows (CDLUPSIDEGAP2CROWS)"
